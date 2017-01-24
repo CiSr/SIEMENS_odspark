@@ -1,7 +1,7 @@
 # SIEMENS_odspark
 File: ./data_format_clean.sh Removes the trailing spaces and changes the delimiter to comma. 
 
-File. surprise_outliers_detect.scala
+File. spark_outliers_detect.scala
 Steps done in that file. 
 
 1. Convert the date column of String type to Date datatype. 
